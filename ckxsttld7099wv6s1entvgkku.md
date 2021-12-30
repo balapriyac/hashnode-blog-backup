@@ -14,7 +14,7 @@ In November 2020, I joined the writing team at [OpenMined](https://www.openmined
 **Thus ended 2020; To new beginnings! Hello 2021🎉✨**
 
 ## Leading the writing team at OpenMined
-In January, I got the opportunity to lead the writing team at OpenMined. Leading a team of over 30 writers from over 10 time zones—was a challenging yet rewarding experience.
+In January 2021, I got the opportunity to lead the writing team at OpenMined. Leading a team of over 30 writers from over 10 time zones—was a challenging yet rewarding experience.
 
 I led the writing team for over 6 months, from January through June 2021. During this period, I coordinated efforts to ensure consistent content influx on the OpenMined blog that members of the community could learn from. And I continued to write a few posts as well.
 
