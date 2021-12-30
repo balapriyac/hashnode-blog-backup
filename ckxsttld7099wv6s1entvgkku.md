@@ -45,7 +45,7 @@ I came across another interesting volunteering opportunity at the AI Time Journa
 
 The guests that I got to interview include startup founders in the data-driven decision making and privacy space, and engineering and program managers at Google, Meta (then, Facebook 😄) and the like.
 
-In case you're interested in data science, you can find all interviews in the link below.
+In case you're interested in data science, you can find all the interviews in the link below.
 
 %[https://www.aitimejournal.com/author/bala-priya]
 
