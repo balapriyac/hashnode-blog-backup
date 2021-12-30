@@ -55,7 +55,7 @@ As a grad student who was and still is trying hard to get past the finish line, 
 This much-needed break indeed helped me get back on track, and regain the lost momentum.
 
 ## Just starting on Hashnode—Ending 2021 on a high note
-During one of the conversations, @[Tapas Adhikary](@atapas)—one of the best content creators out there—had suggested  that I should also consider writing on Hashnode for there's a vibrant and supportive community around it. And I had made my decision at once.😄
+During one of the conversations, @[Tapas Adhikary](@atapas)—one of the best content creators we have—had suggested  that I should also consider writing on Hashnode for there's a vibrant and supportive community around it. And I had made my decision at once.😄
 
 Inspired by great and consistent writers like @[Tapas Adhikary](@atapas), @[Chris Bongers](@dailydevtips), I decided to join Hashnode. It has been a week here, and I love the community already.
 
