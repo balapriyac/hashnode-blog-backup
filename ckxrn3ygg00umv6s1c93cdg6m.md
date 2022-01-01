@@ -1,6 +1,6 @@
 ## How AI Has Changed Over the Years: Advances, Challenges & More - Hear from Denis Rothman, AI Expert
 
-We thank Denis Rothman for taking part in the Data Science Interview Series. Denis Rothman is an Artificial Intelligence Expert and is the author of several popular books such as Transformers in Natural Language Processing, and Hands-On Explainable AI. In this interview, Denis Rothman shares his academic background and research interests.
+We, at the AI Time Journal, thank Denis Rothman for taking part in the Data Science Interview Series. Denis Rothman is an Artificial Intelligence Expert and is the author of several popular books such as Transformers in Natural Language Processing, and Hands-On Explainable AI. In this interview, Denis Rothman shares his academic background and research interests.
 
 ## Academic Background and Specialization
 **🎙️ Bala: Could you tell us about your academic background and specialization?**
