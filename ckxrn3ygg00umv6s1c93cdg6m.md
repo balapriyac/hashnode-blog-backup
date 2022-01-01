@@ -101,5 +101,10 @@ I’m going to disappoint you because I do not believe in flashy knowledge. Arti
 
 First, I would recommend learning to review Mathematics in detail: Arithmetic, General Algebra, Calculus, Geometry, Trigonometry. I would then go in this order among many others: Plato, Aristotle, Descartes, Pascal, Kant, Nietsche, Levi-Strauss, Boltzmann, Poincaré, Markov, Lyapunov, Einstein, Shannon, and Turing. Then, the army of AI authors, yours truly included!
 
+**🎙️ Bala: Could you suggest a guest that you’d like to see in this interview series?**
+
+**Denis Rothman**: There are many great names I could recommend! However, I deeply admire Margaretta Colangelo. She is one of the greatest pragmatic thinkers of this generation and deserves more recognition.
+
+
 
 
