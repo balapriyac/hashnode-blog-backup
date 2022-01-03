@@ -38,7 +38,7 @@ At index 4: letter o
 At index 5: letter n
 At index 6: letter 3
 ```
-In the above code, you've used the `enumerate()` function in conjunction with the `for` loop. This lets you loop through iterables, and access items along with their indices simultaneously—without having to the `range()` function to get the indices.
+In the above code, you've used the `enumerate()` function in conjunction with the `for` loop. This lets you loop through iterables, and access items along with their indices simultaneously—without having to use the `range()` function to get the indices.
 
 ▶ Let's now use string slicing.
 ```py
