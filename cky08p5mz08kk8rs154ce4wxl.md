@@ -31,7 +31,7 @@ For this to happen, the content on your résumé should be:
 
 Typically, your résumé should only be about a page long. And that's all you've got to make an impression on the reviewer.
 
-> As they say, "You're much more than a one-page résumé—but your résumé should not be more than one page.😄
+> As they say, "You're much more than a one-page résumé—but your résumé should not be more than one page." 😄
 
 ## Format of a résumé
 There's no one recommended format to draft your résumé. However, the following sections should typically be present:
