@@ -64,7 +64,7 @@ On the other hand, suppose you're a professional accountant, who's looking to br
 
 ### Education 
 Always cite details of your education—starting from your highest qualification first. 
-
+![study](https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif)
 If you're a Master's student, only mention details of your Master's and undergraduate degree. Some companies do have a certain cut-off GPA, so be sure to include your GPA.
 
 Some people do include `Relevant Coursework` subsection in their `Education` tab.
