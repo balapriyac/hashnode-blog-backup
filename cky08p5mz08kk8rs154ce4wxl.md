@@ -104,10 +104,10 @@ This section is the most crucial section in your résumé—be sure to draft thi
 Here are a few suggestions on how you should explain your experience and projects.
 
 ❌ Do not list down your job responsibilities. <br>
-✅ Write what you accomplished.
+✔ Write what you accomplished.
 
 ❌ Do not tell what you learned. <br>
-✅ Instead, explain what you built with that knowledge.
+✔ Instead, explain what you built with that knowledge.
 
 ❌ Do not use weak language. <br>
 ```
@@ -117,7 +117,7 @@ Avoid phrases like:
 - worked as part of the team,
 - helped implement
 ```
-✅ Use strong language that's impactful.
+✔ Use strong language that's impactful.
 ```
 Say:
 - Built,
@@ -128,13 +128,13 @@ Say:
 ```
 ...worked on speeding up the inference pipeline --> # not quantifying impact
 ```
-✅ Quantify impact wherever possible—talk numbers!.
+✔ Quantify impact wherever possible—talk numbers!.
 ```
 ...worked on speeding up the inference pipeline by 30% 
 by reducing the inference time to 2.5 ms --> #quantifying impact
 ```
 ❌ Do not include many projects without explaining each of them. <br>
-✅ Explain your projects clearly in detail—prioritize quality over quantity.
+✔ Explain your projects clearly in detail—prioritize quality over quantity.
 - Be sure to specify the programming language, and tech stacks used.
 
 ```
