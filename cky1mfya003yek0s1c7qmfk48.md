@@ -3,7 +3,7 @@
 We, at the AI Time Journal, thank Piyanka Jain, President & CEO, Aryng for taking part in the Data Science Leaders interview series and sharing several insights.
 
 ## Getting into Analytics and Decision Science
-**Bala: Could you please let us know what inspired you to pursue a career in Data Science?**
+**🎙️ Bala: Could you please let us know what inspired you to pursue a career in Data Science?**
 
 **Piyanka**: When I ventured into tech about two decades ago, Data Science wasn’t a buzzword at all. In fact, there wasn’t a particular field called Data Science or Data Analytics. I’ve always been fascinated by Mathematics since my school days. I could prove theorems with ease and had a flair for problem solving. 
 
@@ -16,7 +16,7 @@ I started my career as a coder. After a while, I wasn’t quite comfortable just
 > That’s my journey. Summing it all up; from math through a deep dive in statistics, to proven leadership experience in analytics and data-driven decision science.
 
 ## Building and Leading a Data-Driven Organization
-**Bala: You’ve been building Aryng and have been leading from the front. Could you please summarize the journey of Aryng – the growth, challenges and milestones?**
+**🎙️ Bala: You’ve been building Aryng and have been leading from the front. Could you please summarize the journey of Aryng – the growth, challenges and milestones?**
 
 **Piyanka**: “Any company’s journey is packed with challenges and interesting turning points. In the early days, the focal point of Aryng was **Data Literacy**.
 
@@ -33,7 +33,7 @@ You can read more on BADIR strategy [here](). (It all starts with the Business Q
 We then figured out through our experience that the successful working of any data-driven organization relied on 4 D’s – Data Maturity, Data Literacy, Data-driven Leadership, Data-driven decision making process. The development of data culture assessment and being able to positively impact the KPIs of the client organization are some of the key milestones in the journey. We’ve also been doing some cutting edge work for our clients developing machine learning and AI models as part of our Data Science consulting. That said, we are a growing organization bootstrapped by the founders. We would like to be found more easily on the web and continue to deliver our best and create impact at scale.
 
 ## Advances and Challenges in Data Science
-**Bala: As you’ve been in the Data Science industry for a long time, would you like to tell us about the trajectory that Data Science has taken over the years?**
+**🎙️ Bala: As you’ve been in the Data Science industry for a long time, would you like to tell us about the trajectory that Data Science has taken over the years?**
 
 **Piyanka**: In my opinion, it all starts with the business question! Let us consider a generic problem of requesting the sales records of a particular region for a specific period. A natural first step to take would be to get started with the data collection process. But, is that what you should be doing? No, the first step is to ask what business questions are associated with the specific data of potential interest. When you ask questions, you know what to look for. This again is what the BADIR advantage elucidates. Data collection comes after you’ve understood the Business question and have drafted an Analysis Plan.
 
@@ -42,11 +42,11 @@ We then figured out through our experience that the successful working of any da
 Another key concern when harnessing the power of data is to validate whether the required infrastructure is available at disposal. It is also needed to verify maintainability and more importantly, answer the question – is a complex model on the available dataset needed to solve the business question at hand?
 
 ## Understanding and Harnessing the Power of Data
-**Bala: Understanding data and gaining actionable insights is the key to building impactful solutions – What would be your take on this dictum?**
+**🎙️ Bala: Understanding data and gaining actionable insights is the key to building impactful solutions – What would be your take on this dictum?**
 
 **Piyanka**: Absolutely! Analytics to me is all about the synergy of  Data Science and Decision Science. We all have intuitions. All that we need to do is to tap the power of intuitions to formulate hypotheses and build models that extend our intuitions, thereby driving decisions.
 
-**Bala: What would be your views on the power of data, regardless of the industry? How do you believe that the power of data can be best harnessed?**
+**🎙️ Bala: What would be your views on the power of data, regardless of the industry? How do you believe that the power of data can be best harnessed?**
 
 Piyanka: “The very first forecasting model was built in 1930. It was a credit scoring model built by Fischer and Durand. However, using correlation amongst features predates even that. When I was doing my Masters, I had coded my model from scratch in C. I would start running a program, let it run overnight, and come back the next morning with the hope of finding useful results.
 
@@ -57,14 +57,14 @@ There is also the added advantage of leveraging the power of pre-trained models.
 The future of data science is in the hands-on of those who are well equipped to bridge the gap between business and extremely evolved data science infrastructure. That remains the biggest gap in data science. 
 
 ## Advice to Data Science Enthusiasts
-**Bala: What would be your advice to all the data enthusiasts?**
+**🎙️ Bala: What would be your advice to all the data enthusiasts?**
 
 **Piyanka**: It’s extremely important to identify where your passion lies. Ask yourself the question: Do you want to take up Data Science just because it’s another buzzword? Or is using data to solve business questions and drive decision-making your sweet spot? Once you figure out the answer to this question, if you think you’d like to pursue a career in Data Science, be sure to chart out a definitive path. 
 
 My advice would be to identify your dream roles and companies, read through the job descriptions, the acumen and expertise that each role demands. There’s a plethora of roles in the industry – data scientist, data analyst and data engineer to name a few. Once the aspirants identify the role that excites them the most, it’s time to start working backwards by gaining the requisite skills, and bridging the gap, one step at a time.  In my book, Acing Your Analytics Career Transition, I talk about these steps, deconstructing the different stages.
 
 ## Skills and Traits of a Data Scientist 
-**Bala: What are the essential and desirable skills and traits that you look for in prospective candidates?**
+**🎙️ Bala: What are the essential and desirable skills and traits that you look for in prospective candidates?**
 
 **Piyanka**: Well, there are a few sets of skills, grouped together depending on the roles that a particular candidate is applying to. However, I would like to zoom out of the different roles and the allied skills and rather focus on certain essential skills that are role-agnostic. 
 
@@ -73,13 +73,13 @@ My advice would be to identify your dream roles and companies, read through the 
 - A data scientist should always be inquisitive enough and curious to ask questions. If data scientists are complacent that they know it all, it’s often possible that they are indeed missing out on seeking answers to some of the most important questions that matter.
 - Another most important trait that I look for is enthusiasm. If you do not stay enthusiastic throughout the journey, it’s often difficult to maintain the momentum that’s needed to drive impact.
 
-**Bala: If you were to recommend learning paths or resources for those looking to break into Data Science, what would they be?**
+**🎙️ Bala: If you were to recommend learning paths or resources for those looking to break into Data Science, what would they be?**
 
 **Piyanka**: I would say that there’s no one learning path as such that can potentially work wonders for all roles alike. Not everyone needs to know everything. They only need the skills that their level demands. Someone who’s looking to lead content marketing strategy doesn’t need to be able to build regression models. At our academy at Aryng, we offer progressive paths that are role specific.
 
 As I said earlier, it’s all about figuring out the end goal – that role in your target company that excites you the most, and then work backwards, picking up and diligently working on the skills that matter.
 
-**Bala: Could you please suggest a few other leaders whose interviews you would like to see as part of the ‘Data Science Leaders’ interview series?**
+**🎙️ Bala: Could you please suggest a few other leaders whose interviews you would like to see as part of the ‘Data Science Leaders’ interview series?**
 
 Piyanka: Nick Offney, Matthew Denesuk, Sunpreet Singh, Amit Dingare
 
