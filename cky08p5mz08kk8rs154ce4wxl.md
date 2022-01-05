@@ -25,7 +25,7 @@ Well, they're looking for candidates who:
 
 For this to happen, the content on your résumé should be:
 - **Recent**: Always present information in reverse chronological order—starting with the most recent experience first.
-- **Relevant** to the role that you're applying to.
+- **Relevant** to the role that you're applying for.
 
 - **Clear** even to a reader who has no context.
 
@@ -128,7 +128,7 @@ Say:
 ```
 ...worked on speeding up the inference pipeline --> # not quantifying impact
 ```
-✅ Quantify impact wherever possible—talk numbers!.
+✅ Quantify impact wherever possible—talk numbers!
 ```
 ...worked on speeding up the inference pipeline by 30% 
 by reducing the inference time to 2.5 ms --> #quantifying impact
