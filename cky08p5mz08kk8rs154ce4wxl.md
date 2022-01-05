@@ -126,7 +126,8 @@ Say:
 ```
 ❌ Do not be vague when specifying impact. <br>
 ```
-...worked on speeding up the inference pipeline --> # not quantifying impact
+...worked on speeding up the inference pipeline 
+--> # not quantifying impact
 ```
 ✅ Quantify impact wherever possible—talk numbers!
 ```
