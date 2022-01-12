@@ -20,7 +20,7 @@ During the hiring process, include coding rounds and provide case studies to be 
 
 The hiring managers should certainly ignore advice such as hiring from top engineering universities. Organizations should leverage different crowd-sourcing platforms to publish their problems and for the hiring process as well. In this way, organizations would be able to identify and hire the best talents with the help of competitions posted on these crowd-sourcing platforms.
 
-Essential Skills of Data Scientists
+## Essential Skills of Data Scientists
 **🎙️ Bala: What skills and attitudes do you look for when hiring data scientists?**
 
 **Mani**: The following are the requisite skills that I feel are important:
@@ -42,7 +42,7 @@ Mani: According to me, the evolution of BERT in the field of Natural Language Pr
 
 **Mani**: Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning is an amazing book that teaches requisite practical Data Science skills. Books teaching practical and industry-relevant problems, with the understanding of domain would help the data scientists to excel.
 
-Importance of Data-Driven Decisions
+## Importance of Data-Driven Decisions
 **Bala: What is your take on data-driven decisions vs decisions driven by intuition?**
 
 **Mani**: Data-driven decisions are significant, but they should be supplemented with domain knowledge to yield fruitful outcomes.
