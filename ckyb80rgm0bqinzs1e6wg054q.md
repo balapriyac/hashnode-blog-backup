@@ -34,9 +34,9 @@ The hiring managers should certainly ignore advice such as hiring from top engin
 - Data handling skills and feature engineering are also extremely important with the advent of automated Exploratory Data Analysis (EDA) and Machine Learning. 
 Therefore, Data Scientists with the required technical skills, who would help us build optimal models within a reasonable timeframe should be hired.
 
-Bala: In your opinion, what have been the most relevant breakthroughs in Data Science impacting our world in the past few years, and what trends do you see emerging going forward?
+**🎙️ Bala: In your opinion, what have been the most relevant breakthroughs in Data Science impacting our world in the past few years, and what trends do you see emerging going forward?**
 
-Mani: According to me, the evolution of BERT in the field of Natural Language Processing (NLP) is a great breakthrough. We can observe a consistent increase in NLP applications going forward. We consume and generate a lot of data in text format, across different social channels and repositories. Insights from these untapped sources can be of great importance to the organizations!
+**Mani**: According to me, the evolution of BERT in the field of Natural Language Processing (NLP) is a great breakthrough. We can observe a consistent increase in NLP applications going forward. We consume and generate a lot of data in text format, across different social channels and repositories. Insights from these untapped sources can be of great importance to the organizations!
 
 **🎙️ Bala: What is one book that you would recommend as a good read to all aspiring data scientists?**
 
