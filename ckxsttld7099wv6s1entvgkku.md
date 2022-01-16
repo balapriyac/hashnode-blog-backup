@@ -34,7 +34,9 @@ I was following writers like @[Chris Bongers](@dailydevtips) and could only get 
 ## Writing for freeCodeCamp
 I was trying to code my way through freeCodeCamp's Responsive Web Design curriculum, when I got to know that I can apply to become a writer for freeCodeCamp's publication. ✨ I was super happy when Abbey (Abigail Rennemeyer), who is the managing editor onboarded me as a contributor shortly after.
 
-From June to November 2021, I wrote around 18 tutorials—predominantly covering topics in core Python.
+From June to November 2021, I wrote around 18 tutorials—predominantly covering topics in core Python. And I was also recognized by Quincy as one of the `Top Contributors` to the freeCodeCamp publication in 2021. 😄
+
+![fCC-top-contrbutor.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1642340617383/6WchTWUM3.png)
 
 You can find all posts that I've written for freeCodeCamp in my author profile below. And according to stats from Google Analytics, readers spend 1000+ hours every month reading my beginner-friendly tutorials.
 
