@@ -153,7 +153,7 @@ Now that you know how to draft all major sections in your résumé, let's list d
 > If you're interested in both software engineering and data analytics, be sure to draft a dedicated résumé for each of these roles. 
 - Don't be terse in explaining your projects—including portfolio links doesn't suffice. 
 > The recruiter may not have time to look at your portfolio. So your  résumé should do the talking for you. 
-- Do not use fuzzy language just to make your projects sound look cool and complicated.
+- Do not use fuzzy language just to make your projects sound cool and complicated.
 
 ![explain me](https://media.giphy.com/media/WsNbxuFkLi3IuGI9NU/giphy.gif)
 
